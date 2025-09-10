@@ -5,6 +5,8 @@ This assignment was challenging but a valuable learning experience. It required 
 
 The hardest part for me was configuring the local environment and debugging why the “Latest per-Title Metrics” table didn’t populate. Once corrected, the system demonstrated ingestion, metrics calculation, and visualization as required.  
 
+In addition to word counts and section counts, I added a **custom readability index metric**. This helps assess the complexity of regulatory text and provides additional decision-making value.  
+
 I believe my skills in interoperability, data governance, and building systems that integrate with federal APIs position me well for this type of work. While I am out of practice coding at this level, I was able to learn, adapt, and deliver a working solution.
 
 ## Duration
